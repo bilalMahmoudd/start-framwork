@@ -1,0 +1,15 @@
+:root{
+   --main-color: #1abc9c;
+   --second-color: #2c3e50;
+}
+
+.home{
+   background-color: var(--main-color);
+   margin-top: 84px;
+   min-height: calc(-112px + 100vh);
+}
+.line{
+   height: 4px;
+   width: 80px;
+   background-color: white;
+}
